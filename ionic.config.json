@@ -1,0 +1,7 @@
+{
+  "name": "vegOnline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
